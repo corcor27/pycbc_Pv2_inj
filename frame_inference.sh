@@ -88,7 +88,7 @@ pycbc_inference --verbose \
     --sample-rate ${SAMPLE_RATE} \
     --low-frequency-cutoff ${F_MIN} \
     --channel-name H1:HWINJ_INJECTED L1:HWINJ_INJECTED \
-    --frame-files H1:H-H1HWINJ_PhenomPv2-Run8_inc_0.0-1167559433-256.gwf L1:L-L1HWINJ_PhenomPv2-Run8_inc_0.0-1167559433-256.gwf \
+    --frame-files H1:H-H1HWINJ_PhenomPv2-Run9_inc_0.0-1167559433-256.gwf L1:L-L1HWINJ_PhenomPv2-Run9_inc_0.0-1167559433-256.gwf \
     --processing-scheme ${PROCESSING_SCHEME} \
     --sampler kombine \
     --likelihood-evaluator gaussian \
