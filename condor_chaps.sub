@@ -1,4 +1,4 @@
-executable     =/home/c1324200/pycbc_Pv2_inj/PhenomPv2_SNR_25_mode_PhenomPv2_inc_45.0_M70/frame_inference.sh
+executable     =/home/c1324200/pycbc_Pv2_inj/PhenomPv2_SNR_25_mode_PhenomPv2_inc_30.0_M70/frame_inference.sh
 universe       = vanilla
 getenv         = True
 output         = test.out
